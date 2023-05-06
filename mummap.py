@@ -2,7 +2,7 @@ import os
 import time
 import requests
 import socket 
-import nmap 
+
 
 def munip():
 	print("muntahi")
