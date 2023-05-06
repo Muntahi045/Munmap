@@ -4,8 +4,8 @@ import requests
 import socket 
 
 
-def munip():
-	print("muntahi")
+
+
 	
 
 
@@ -13,7 +13,7 @@ def munip():
 
 
 
-
+os.system("clear")
 print("""[\033[0;36m
 
   #####                          #     #               
